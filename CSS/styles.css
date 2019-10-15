@@ -1,19 +1,20 @@
-h2 {
-  color: lightblue;
-  text-align: center;
-}
-
-h3 {
-  color: grey;
-}
-
 img {
-  max-width: 50%;
-
+  max-width: 20%;
 }
 
 a {
   font-family: serif;
   font-weight: bold;
-  color: grey;
+  color: orange;
+}
+
+h4 {
+  font-style: italic;
+}
+
+
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
 }
